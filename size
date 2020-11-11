@@ -1,0 +1,10 @@
+include <iostream.h>
+include std namespace;
+int main()
+{
+  print f ( size of char: 1byte) endl;
+  print f (size of int: 4byte) endl;
+  print f (size of float:4byte) endl;
+  print f (size of doubel :8byte) endl;
+}  
+  
